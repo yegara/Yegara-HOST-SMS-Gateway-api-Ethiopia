@@ -28,8 +28,8 @@ SMS Template Ids
  
 Template ID	 | Parameter | SMS Content
 --- | --- | ---
- *otp* | 	4-6 digit Number` | **Your [Webiste Name] OTP is: [OTP]**
- *otp_1* | 	4-6 digit Number` | **Use  [OTP]  for 2FA on  [Webiste Name]**
+ `otp` | 	*4-6 digit Number* | Your [Webiste Name] OTP is: [OTP]
+ `otp_1` | 	*4-6 digit Number* | Use  [OTP]  for 2FA on  [Webiste Name]
 
  
  
