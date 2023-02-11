@@ -33,7 +33,7 @@ function sendSMS($to, $message, $template_id)
  
 //// Now Lets Send SMS
 
-$to ='0960171717';
+$to ='09xxxxxxxx';
 $message = '1234';
 $template_id = 'otp';  
  
