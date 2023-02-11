@@ -4,6 +4,8 @@ Send OTP and more to Ethiopia From your websites and apps using <a href="https:/
 The SMS GATEWAY is provided for FREE with all your domains.
 If your domain is not registered with yegara.com, you can simply verify your ownership and start sending
 
+Get your Token from yegara.com/sms
+ 
 How to Use
 -------
 
@@ -20,6 +22,12 @@ How to Use
  echo sendSMS($to, $message, $template_id); 
 ?>
 ```
-Note
+
+SMS Template Ids
+-------
+ 
+ 
+ 
+ Note
 -------
  You will have to send the reqests from your domain name or subdomain . 
