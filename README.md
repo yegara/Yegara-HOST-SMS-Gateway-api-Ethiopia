@@ -6,13 +6,12 @@ If your domain is not registered with yegara.com, you can simply verify your own
 
 # How To Use
  
-  <code>
+<code>
+include('yegaraSMS-api.php');
 
-    include('yegaraSMS-api.php');
-    $to ='0960171717';
-    $message = '1234';
-    $template_id = 'otp';  
+$to ='0960171717';
+$message = '1234';
+$template_id = 'otp';  
 
-    $send = sendSMS($to, $message, $template_id); 
-
-  </code>
+$send = sendSMS($to, $message, $template_id); 
+</code>
