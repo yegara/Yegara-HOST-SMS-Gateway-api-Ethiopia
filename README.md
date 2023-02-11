@@ -17,6 +17,6 @@ How to Use
  $message = '1234';
  $template_id = 'otp';  
 
- $send = sendSMS($to, $message, $template_id); 
+ echo sendSMS($to, $message, $template_id); 
 ?>
 ```
