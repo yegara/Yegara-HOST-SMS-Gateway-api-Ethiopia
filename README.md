@@ -30,14 +30,14 @@ Template ID	 | Parameter | SMS Content
 --- | --- | ---
 `otp` | 	*4-6 digit Number* | Your [Webiste Name] OTP is: [OTP]
 `otp_1` | 	*4-6 digit Number* | Use  [OTP]  for 2FA on  [Webiste Name]
-welcome|	your client’s name	|Welcome aboard [Client Name]! We are glad to have you as a part of our community. [Webiste Name]
-welcome_1	|your client’s name	|Thank you [Client Name] for registering with [Webiste Name]! Your account has been successfully created.
-reminder	|your client’s name, the service you are reminding them about, and datetime|	Hi, [Client Name], We would like to send a friendly reminder about your appointment for [service] on [Date, Time]. [Webiste Name]
-reminder_1	|your client’s name, the service you are reminding them about, and datetime	|Hi, [Client Name], We look forward to seeing you tomorrow at [Date, Time] for your [service]. [Webiste Name]
-shopping|	order number	|Thank you for your purchase. We have received your payment for [order number]. [Webiste Name]
-shopping_1	|order number|	Your order has been successfully placed. Your order number is [order number]. [Webiste Name]
-confirmation	|your client’s name	|Confirmation from [Website Name]. Thanks for booking an appointment with us! We look forward to seeing you.
-confirmation_1	|your client’s name|	Your reservation has been confirmed! Thank you for taking part. [Webiste Name].
+`welcome`|	your client’s name	|Welcome aboard [Client Name]! We are glad to have you as a part of our community. [Webiste Name]
+`welcome_1`	|your client’s name	|Thank you [Client Name] for registering with [Webiste Name]! Your account has been successfully created.
+`reminder`	|your client’s name, the service you are reminding them about, and datetime|	Hi, [Client Name], We would like to send a friendly reminder about your appointment for [service] on [Date, Time]. [Webiste Name]
+`reminder_1`	|your client’s name, the service you are reminding them about, and datetime	|Hi, [Client Name], We look forward to seeing you tomorrow at [Date, Time] for your [service]. [Webiste Name]
+`shopping`|	order number	|Thank you for your purchase. We have received your payment for [order number]. [Webiste Name]
+`shopping_1`	|order number|	Your order has been successfully placed. Your order number is [order number]. [Webiste Name]
+`confirmation`	|your client’s name	|Confirmation from [Website Name]. Thanks for booking an appointment with us! We look forward to seeing you.
+`confirmation_1`	|your client’s name|	Your reservation has been confirmed! Thank you for taking part. [Webiste Name].
  
  
  
