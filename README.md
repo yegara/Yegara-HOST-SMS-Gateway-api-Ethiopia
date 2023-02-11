@@ -1,2 +1,2 @@
 # Yegara-HOST-SMS-Gateway-api-Ethiopia
-Send OTP &amp; more to Ethiopia From your websites and apps. 
+Send OTP and more to Ethiopia From your websites and apps using <a href="https://yegara.com">Yegara HOST </a> FREE <a href="https://yegara.com/sms">SMS API Gateway. 
