@@ -20,3 +20,6 @@ How to Use
  echo sendSMS($to, $message, $template_id); 
 ?>
 ```
+Note
+-------
+ You will have to send the reqests from your domain name or subdomain . 
